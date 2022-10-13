@@ -4,5 +4,5 @@ Sketch Pad is a canvas that lets you draw whatever you like and download it. It 
 
 ## Usage 
 
-Visit the [sketch-pad](https://vahido9.github.io/sketch-pad/) here and sketch away. 
+Visit the <a href="http://vahido9.github.io/sketch-pad/" target="_blank">sketch-pad</a> here and sketch away. 
 
