@@ -1,9 +1,0 @@
-Wrap input and its label in a div 
-
-<div> 
-	<label>...<input>...
-</div>i
-
-Then float the divs a certain percentage across the screen
-I think its float but check in SYSC4504 notes for it
-Or just google it
