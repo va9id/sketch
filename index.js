@@ -2,10 +2,6 @@ var canvas = document.getElementById("canvas");
 var context = canvas.getContext("2d");
 let drawing = false; 
 
-
-//Do On mobile only
-//                                                                                                           canvas.height = window.screen.availHeight / 2 ;
-
 canvas.addEventListener("pointerdown", function(e) {
     drawing = true; 
     context.beginPath();
